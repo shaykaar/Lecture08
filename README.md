@@ -2,5 +2,5 @@
 
 # This is a title
 
-- this is an item
-- this is another item
+- this is an item.
+- this is another item.
